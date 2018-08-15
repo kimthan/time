@@ -1,0 +1,18 @@
+li {
+ border:2px black solid;
+ width: 200px;
+ margin:10px;
+ list-style:none;
+}
+
+ul {
+  text-align: center;
+}
+
+.active {
+  background:rgb(107, 243, 107);
+}
+
+.firstCustomer:first-child{
+  border:greenyellow 3px solid;
+}
